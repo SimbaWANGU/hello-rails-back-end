@@ -10,7 +10,7 @@
 - Postgresql
   
 ## Link to React App
-[link](https://github.com/SimbaWANGU/hello-react-front-end/tree/development)
+[link](https://github.com/SimbaWANGU/hello_react_front_end/tree/develop)
 
 ## Getting Started
 
