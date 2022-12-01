@@ -1,18 +1,43 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Hello Rails Back End
 
-> Create a React front-end with a Rails back-end and connect them to display a random greeting message.
+<div align="center">
 
-## Made With
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-- Ruby on Rails
-- Postgresql
-  
-## Link to React App
-[link](https://github.com/SimbaWANGU/hello_react_front_end/tree/develop)
+</div>
 
-## Getting Started
+# 📖 Hello Rails Back End <a name="about-project"></a>
+
+**Hello Rails Back End** is a Rails back-end app that sends greetings to the frontend React app.
+
+The link to the Frontend is [here](https://github.com/SimbaWANGU/hello_react_front_end/tree/develop)
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://rubyonrails.org/">Ruby On Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 ### Setup
 
@@ -42,7 +67,9 @@ run:
 rails s
 ```
 
-## Authors
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Simba WANGU**
 
@@ -50,12 +77,28 @@ rails s
 - Twitter: [@Simb_erella](https://twitter.com/Simb_erella)
 - LinkedIn: [Simba Wangulu](https://linkedin.com/in/simba-wangulu/)
 
-## 🤝 Contributing
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/braincee/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/SimbaWANGU/hello-rails-back-end/issues).
 
-## Show your support
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Hat tip to code reviewers and to everyone who reviewed the project and made suggestions.
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
